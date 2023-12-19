@@ -1,0 +1,7 @@
+Product: limão | Amount: 5 | Unit Price: 1.99 | Total Price: 9.95
+Product: melancia | Amount: 2 | Unit Price: 8.99 | Total Price: 17.98
+Product: banana | Amount: 6 | Unit Price: 2.99 | Total Price: 17.94
+Product: maça | Amount: 4 | Unit Price: 2.50 | Total Price: 10.00
+Product: abacate | Amount: 2 | Unit Price: 9.90 | Total Price: 19.80
+
+Total Price: 75.67

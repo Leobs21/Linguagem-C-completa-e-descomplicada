@@ -1,0 +1,3 @@
+registration: 1
+name: leo
+grades: 5.0 | 8.5 | 7.0

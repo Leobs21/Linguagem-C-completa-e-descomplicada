@@ -1,0 +1,6 @@
+name: leo | age: 29
+name: sakai | age: 14
+name: aristides | age: 64
+name: antonio | age: 51
+name: lucy | age: 31
+name: maria | age: 34

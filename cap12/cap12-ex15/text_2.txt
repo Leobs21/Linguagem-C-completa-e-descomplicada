@@ -1,0 +1,2 @@
+crie um programa para calcular e exibir o numero de palavras contido em um arquivo texto.
+o usuario devera informar o nome do arquivo.
