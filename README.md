@@ -8,7 +8,7 @@ Os exercicios foram feitos na ótica de um completo iniciante, então não esper
 Nos primeiros capitulos, optei por não utilizar funções de biblioteca de C e fiz a maior parte das operações manualmente. Nos ultimos capitulos passei a utilizar funções prontas. Fiz assim apenas pra fins de estudo, ver se eu conseguiria fazer.
 
 ### Software Utilizado: 
-Até o capítulo 7, usei **Code::Blocs** no **Windows 11**. 
+Até o capítulo 7, usei **Code::Blocks** no **Windows 11**. 
 
 A partir do capítulo 8 usei **Lunarvim** no **Arch Linux** e **gcc** para compilar. 
 
